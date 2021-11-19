@@ -1,5 +1,5 @@
 # Git-autoformation : 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="drawing" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="drawing" width="230"/>
 
 <details>
 <summary>Chap 1 :</summary>
