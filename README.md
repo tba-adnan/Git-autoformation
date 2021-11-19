@@ -1,5 +1,5 @@
-# Git-autoformation
-Git
+# Git-autoformation : 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png "Git Logo")
 
 <details>
 <summary>Chap 1 :</summary>
